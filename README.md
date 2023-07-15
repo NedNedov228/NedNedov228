@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg%22%3E<img src="https://readme-typing-svg.herokuapp.com/?font=Courier&duration=2000&pause=500&color=2CF700&multiline=true&width=500&height=110&lines=A+whole+bunch+of+turbulence;A+whole+bunch+of+turbulence;Everybody+strap+your+seatbelts;Cause+theres+about+to+be+some+turbulence." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&duration=2000&pause=500&color=2CF700&multiline=true&width=500&height=110&lines=A+whole+bunch+of+turbulence;A+whole+bunch+of+turbulence;Everybody+strap+your+seatbelts;Cause+theres+about+to+be+some+turbulence." alt="Typing SVG" /></a>
+
+G
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
