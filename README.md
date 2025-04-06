@@ -38,8 +38,23 @@ Stacks I have worked with :  React+Spring , Swelte+Express.js .
 </p>
 
 
-<h2 id="️-connect-with-me-">❤️ Connect with me : <a href="https://www.linkedin.com/in/ahmedoff/"><img src="https://img.shields.io/badge/-Nijat Ahmedli-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ahmedoff/" alt="Linkedin Badge"></a></h2>
-<a href="mailto:nidschat.ahmedli@gmail.com"><img src="https://img.shields.io/badge/-nidschat.ahmedli@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:nidschat.ahmedli@gmail.com" alt="Gmail Badge"></a>
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
+
+
+<h2 id="️-connect-with-me-">❤️ Connect with me : </h2>
+
+
+[![Gmail](https://img.shields.io/badge/nidschat.ahmedli@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:nidschat.ahmedli@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ahmedoff/)
+	[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/NedNedov/)
+
+
 
 <!--
 
