@@ -56,4 +56,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="/res/bottom.jpeg" alt="drawing" style="width:200px;"/>
+<br>
+<br>
+<img src
+="/res/bottom.jpeg" alt="drawing" style="width:100%;"/>
