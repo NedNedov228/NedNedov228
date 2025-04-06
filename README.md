@@ -16,11 +16,11 @@ Stacks I have worked with :  React+Spring , Swelte+Express.js .
 <img src="https://img.shields.io/badge/-C/C++-black?style=flat-square&amp;logo=cplusplus" alt="badge">
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&amp;logo=openjdk" alt="badge">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" alt="badge"></p>
-</p>
 
 
 
 
+<p>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=react" alt="React">
 <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&amp;logo=Redux" alt="Redux">
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&amp;logo=Node.js" alt="Nodejs">
@@ -39,7 +39,6 @@ Stacks I have worked with :  React+Spring , Swelte+Express.js .
 
 
 <h2 id="️-connect-with-me-">❤️ Connect with me : <a href="https://www.linkedin.com/in/ahmedoff/"><img src="https://img.shields.io/badge/-Nijat Ahmedli-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ahmedoff/" alt="Linkedin Badge"></a></h2>
-<p>Credit: <a href="https://github.com/aman-atg">aman-atg</a></p>
 <a href="mailto:nidschat.ahmedli@gmail.com"><img src="https://img.shields.io/badge/-nidschat.ahmedli@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:nidschat.ahmedli@gmail.com" alt="Gmail Badge"></a>
 
 <!--
