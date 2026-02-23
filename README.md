@@ -1,7 +1,7 @@
 ![banner](/res/banner.png)
 
 
-A  Software Developer 🚀 from Azerbaijan☝️🇦🇿. Always working on some project or learning something new!
+A Developer 🚀 from Azerbaijan☝️🇦🇿. Always working on some project or learning something new!
 <br>
 Stacks I have worked with :  React+Spring , Swelte+Express.js .
 </p>
@@ -52,7 +52,7 @@ Stacks I have worked with :  React+Spring , Swelte+Express.js .
 
 [![Gmail](https://img.shields.io/badge/nidschat.ahmedli@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:nidschat.ahmedli@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ahmedoff/)
-	[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/NedNedov/)
+<!--	[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/NedNedov/)-->
 
 
 
